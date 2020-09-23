@@ -1,3 +1,5 @@
+Environment: Ubuntu 16.04
+
 1. on command line type "make"
 	to compile my code
 
